@@ -1,5 +1,5 @@
-#React Pie Chart with JSON/API Data
-# Demo
+# React Pie Chart with JSON/API Data
+### `Demo`
 ![Demo](demo.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
